@@ -1,0 +1,7 @@
+Goal and scope: what you wanted the setup to do.
+Your contribution: installation, configuration, network design, hardening, testing, or automation.
+Architecture: a network diagram, hardware specs, and how components connect.
+Steps and configuration: enough detail to explain your process, with sensitive values removed.
+Security choices: what you changed, why, and how you tested it.
+Results and lessons: what worked, what you’d change, and any limitations.
+Credits and links: point to the official project and documentation; don’t present their software as your own.
